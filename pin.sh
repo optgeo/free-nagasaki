@@ -289,3 +289,16 @@ ipfs pin add --progress QmVgppprYzMmuQe4jCFLrTpSrrmQFoVhm3qEoGPSzuHi81
 ipfs pin add --progress Qmdky6zsr83jXY4Jsxfhjs5HokYZJnvzBfDV2HwvvMAPUq
 ipfs pin add --progress QmUGmvJD6594SAktM3NDmUS9gvZMcJpgARWdk7WfQZ55dG
 ipfs pin add --progress Qmd9uYi2Hp7DRvwvcFGyJU6tnQMQUgppHStqhtu3xbFSAi
+ipfs pin add --progress QmdeY46dRDuDNFqdstMvAzaLADemv1JXy4pjAs9dWvG1EW
+ipfs pin add --progress Qmb4nqPpfGtu32fcjiUNWSDEKiH55UoUPBNovwTwbG47US
+ipfs pin add --progress QmYD79mgKuXoEennUx1VCEh4rbYYv8gHhDMVeFft9SxTpb
+ipfs pin add --progress QmNX6NwFbk2HawR192yn3i9Mem1aRP4xVvETLPKHDuN8ri
+ipfs pin add --progress QmPtC83J1JUpmVJQkNQpuZxqumSARtyjRnupF9GuWww5Tc
+ipfs pin add --progress QmfLS6RU2yU7dya5u1f1RVQMA4Bu9BcxcQAgFkd8hUcr95
+ipfs pin add --progress QmVz3Ajxbn4dXte4QB8mufAGkVpt4g2bgwjxCEp73bsiWA
+ipfs pin add --progress QmckcRk378HrWnHtghaFwSyRQuk6L9LqKCtfWLyLxJUa6s
+ipfs pin add --progress QmQQN7c49nJV1rtPJnGCpLwuDfmYXNHf6VLnTjAAF2vjNA
+ipfs pin add --progress QmRDUKD3iZ9vZPRnEXF7gamyY1CgKEUZJbRiJxUiw3xUdp
+ipfs pin add --progress QmcN7HrCpwEWwFdZR6j8wScmF4r99cRJ1mKJLNFe4UTAtn
+ipfs pin add --progress QmVPMz8nei2YgMMXfNL97TjdnirDNWuF2BPtajDz4my7Vd
+ipfs pin add --progress QmQnGDJEGkY5gqjR5DNyXFCxEXKxtJsCxjgNhxBc6Q31Nx
