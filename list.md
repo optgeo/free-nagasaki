@@ -44,3 +44,16 @@
 01ke6744.copc.laz,https://viewer.copc.io/?copc=https://smb.optgeo.org/ipfs/QmcZjm8AQJ7HLJQDDxLpAXyRFAjSQacwwN7uiywTwhQ3Ek
 01ke6811.copc.laz,https://viewer.copc.io/?copc=https://smb.optgeo.org/ipfs/QmUv4PU8D4ScTwqYsEKNW6iEJdpVzpUrheWx3KTc8HRz5r
 01ke6812.copc.laz,https://viewer.copc.io/?copc=https://smb.optgeo.org/ipfs/QmU9bV4dEug1uC1AAS3aLqZ4vDz1M2m7k2kCiwqp6Ukn1q
+01ke6813.copc.laz,https://viewer.copc.io/?copc=https://smb.optgeo.org/ipfs/QmdVsEMM24YrreNUoa5gJjbW4rbPBhZqs8urFTXWy4cBuG
+01ke6814.copc.laz,https://viewer.copc.io/?copc=https://smb.optgeo.org/ipfs/QmWBEHacCpsgYt1stGGNc8h4eQy8MCdM75AYqWTSBEHC9U
+01ke6821.copc.laz,https://viewer.copc.io/?copc=https://smb.optgeo.org/ipfs/QmcJ5GU97eRgBzJJvJHY26NvLDzeu1V6mmEYZntVfsmXmA
+01ke6823.copc.laz,https://viewer.copc.io/?copc=https://smb.optgeo.org/ipfs/QmT224qnenYqcP1bRMkERx35RnbehSMMhA3eEwTJb5c1py
+01ke6831.copc.laz,https://viewer.copc.io/?copc=https://smb.optgeo.org/ipfs/QmWqdeErJvyzXjiGCwsp8j2ogPxS3XAKHVUubuYUdy7WZx
+01ke6832.copc.laz,https://viewer.copc.io/?copc=https://smb.optgeo.org/ipfs/QmUUecPA49LEmhJUjLcmCHSTQSQo3a3XoUN1dhzjUdNpEW
+01ke6833.copc.laz,https://viewer.copc.io/?copc=https://smb.optgeo.org/ipfs/QmetnezA72znkueZwHPfPWFvckmZMvFPavn1nE8k1MpRNb
+01ke6834.copc.laz,https://viewer.copc.io/?copc=https://smb.optgeo.org/ipfs/QmZZ11RJwFqag9Dfj5kR8v8W66DvqxhyJTQwc3qQRggxfZ
+01ke4824.copc.laz,https://viewer.copc.io/?copc=https://smb.optgeo.org/ipfs/QmaDeGU15aEnw3yHfzuAFUki7xFMDNemMPH5DeXn2dB96d
+01ke4842.copc.laz,https://viewer.copc.io/?copc=https://smb.optgeo.org/ipfs/QmYswPd2JwamanwgjtLXnpUmVteLBENgR7rjncMyptQJLm
+01ke4844.copc.laz,https://viewer.copc.io/?copc=https://smb.optgeo.org/ipfs/QmeTRDVMQ4C15XZRm3gQ7KHGrTWmEnvMyhZAg83xcc4kef
+01ke4931.copc.laz,https://viewer.copc.io/?copc=https://smb.optgeo.org/ipfs/QmZxkozshij1234PpxqXCAmQxMvVErfTuYEr638BN3y4em
+01ke7722.copc.laz,https://viewer.copc.io/?copc=https://smb.optgeo.org/ipfs/QmQgkejupT2vwtkfF8kBpozHqPs6VJpFxeAG4jojxD6hUs
