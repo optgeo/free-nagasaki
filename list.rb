@@ -9,9 +9,11 @@ File.foreach('convert/dst/list.csv') {|l|
 1. [#{fn} ipfs:#{cid}](https://viewer.copc.io/?copc=https://smb.optgeo.org/ipfs/#{cid})
   EOS
   pin.print <<-EOS
+echo adding #{fn} - #{cid}
 ipfs pin add --progress #{cid}
   EOS
   rmpin.print <<-EOS
+echo removing #{fn} - #{cid}
 ipfs pin rm #{cid}
   EOS
 }
