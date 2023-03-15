@@ -340,10 +340,10 @@ echo adding 01ke3544.copc.laz - QmZ78Pwe7UU79skoLHbrcnJsmgpZNB11C5RU44kCLXqaxX
 ipfs pin add --progress QmZ78Pwe7UU79skoLHbrcnJsmgpZNB11C5RU44kCLXqaxX
 echo adding 01ke3611.copc.laz - QmTdNT4CCLZPLBBkeBE4NuLXiDbJw43riMot6ViPAqe9qj
 ipfs pin add --progress QmTdNT4CCLZPLBBkeBE4NuLXiDbJw43riMot6ViPAqe9qj
-echo adding 01ke3612.copc.laz - QmaFJTcvwpWqxLGFjgF4MpcoskmzyKjj7mY5FA3owvSaJ7
-ipfs pin add --progress QmaFJTcvwpWqxLGFjgF4MpcoskmzyKjj7mY5FA3owvSaJ7
-echo adding 01ke3613.copc.laz - QmUKXTu3a6Xtjqzs2KreTqrgyz8RyqgGZUzkQhbSHouvv6
-ipfs pin add --progress QmUKXTu3a6Xtjqzs2KreTqrgyz8RyqgGZUzkQhbSHouvv6
+echo adding 01ke3612.copc.laz - QmbEaUYNzmdQBXM5btzz8cyCnCmXPxe4LffhdZmGZfxAEc
+ipfs pin add --progress QmbEaUYNzmdQBXM5btzz8cyCnCmXPxe4LffhdZmGZfxAEc
+echo adding 01ke3613.copc.laz - QmenzACVPLwoANC9YHW3KPEe1dX3u5ZSubePoHbYcSaVoX
+ipfs pin add --progress QmenzACVPLwoANC9YHW3KPEe1dX3u5ZSubePoHbYcSaVoX
 echo adding 01ke3614.copc.laz - Qmeacs6fRNbaKqmcg1dfwAWF72TfKVRwu5AEKw65EwykSh
 ipfs pin add --progress Qmeacs6fRNbaKqmcg1dfwAWF72TfKVRwu5AEKw65EwykSh
 echo adding 01ke3621.copc.laz - Qmb6G6C3Zeu43prGvXwXAmyqcz3m35ZGbApL5WXpS3rtje
@@ -1438,3 +1438,5 @@ echo adding 01le2743.copc.laz - QmWqaMuYKKPJzoBMzKjbSWgHUevfdW66igShGJAhu5k9nH
 ipfs pin add --progress QmWqaMuYKKPJzoBMzKjbSWgHUevfdW66igShGJAhu5k9nH
 echo adding 01le2744.copc.laz - QmYofrnZTkdw6wksvTPYJZ8Ex2YCV2gTA8BaMeSWXKkiBz
 ipfs pin add --progress QmYofrnZTkdw6wksvTPYJZ8Ex2YCV2gTA8BaMeSWXKkiBz
+echo adding 01le2811.copc.laz - QmV8ENB6Mp5kVQTNbLJusmRnFewwEHjHgfa6WB6c8cSzX1
+ipfs pin add --progress QmV8ENB6Mp5kVQTNbLJusmRnFewwEHjHgfa6WB6c8cSzX1
