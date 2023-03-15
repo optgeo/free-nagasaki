@@ -1,5 +1,6 @@
 list = File.open('list.md', 'w')
 pin = File.open('pin.sh', 'w')
+rmpin = File.open('rmpin.sh', 'w')
 
 File.foreach('convert/dst/list.csv') {|l|
   r = l.strip.split(',')
@@ -10,7 +11,11 @@ File.foreach('convert/dst/list.csv') {|l|
   pin.print <<-EOS
 ipfs pin add --progress #{cid}
   EOS
+  rmpin.print <<-EOS
+ipfs pin rm #{cid}
+  EOS
 }
 
 list.close
 pin.close
+rmpin.close
