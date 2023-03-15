@@ -344,16 +344,16 @@ echo removing 01ke3612.copc.laz - QmbEaUYNzmdQBXM5btzz8cyCnCmXPxe4LffhdZmGZfxAEc
 ipfs pin rm QmbEaUYNzmdQBXM5btzz8cyCnCmXPxe4LffhdZmGZfxAEc
 echo removing 01ke3613.copc.laz - QmenzACVPLwoANC9YHW3KPEe1dX3u5ZSubePoHbYcSaVoX
 ipfs pin rm QmenzACVPLwoANC9YHW3KPEe1dX3u5ZSubePoHbYcSaVoX
-echo removing 01ke3614.copc.laz - Qmeacs6fRNbaKqmcg1dfwAWF72TfKVRwu5AEKw65EwykSh
-ipfs pin rm Qmeacs6fRNbaKqmcg1dfwAWF72TfKVRwu5AEKw65EwykSh
-echo removing 01ke3621.copc.laz - Qmb6G6C3Zeu43prGvXwXAmyqcz3m35ZGbApL5WXpS3rtje
-ipfs pin rm Qmb6G6C3Zeu43prGvXwXAmyqcz3m35ZGbApL5WXpS3rtje
-echo removing 01ke3622.copc.laz - QmcofJBHQtFxMQykKi2FsYjp2UrmRJfXpykn4QFEmDVFwB
-ipfs pin rm QmcofJBHQtFxMQykKi2FsYjp2UrmRJfXpykn4QFEmDVFwB
-echo removing 01ke3623.copc.laz - QmdcnosmrtqmVtMprEj5L3ribnLHGMrQehxZsisKbZxRLd
-ipfs pin rm QmdcnosmrtqmVtMprEj5L3ribnLHGMrQehxZsisKbZxRLd
-echo removing 01ke3624.copc.laz - QmQb594jPFPghhdx4JRL5TdCUqeoLGsejzwktSgUG9zueL
-ipfs pin rm QmQb594jPFPghhdx4JRL5TdCUqeoLGsejzwktSgUG9zueL
+echo removing 01ke3614.copc.laz - QmaLSZhtNgwKmNLKHQ7kyXzPdR69wq3tx7am8HV4xtBUVU
+ipfs pin rm QmaLSZhtNgwKmNLKHQ7kyXzPdR69wq3tx7am8HV4xtBUVU
+echo removing 01ke3621.copc.laz - QmP3dWo2WwPqkt5uG8rBgVihqm3AXnRaesRkq7DxVGozBJ
+ipfs pin rm QmP3dWo2WwPqkt5uG8rBgVihqm3AXnRaesRkq7DxVGozBJ
+echo removing 01ke3622.copc.laz - QmSsknfpdL65fJKKoUeKjb4VqpGev4R6MN98FVVyEE5PFt
+ipfs pin rm QmSsknfpdL65fJKKoUeKjb4VqpGev4R6MN98FVVyEE5PFt
+echo removing 01ke3623.copc.laz - QmShaG7mBKcdtRgt18sSmQRFpEHPjHme7T5KsTo8WSQy5Y
+ipfs pin rm QmShaG7mBKcdtRgt18sSmQRFpEHPjHme7T5KsTo8WSQy5Y
+echo removing 01ke3624.copc.laz - QmcbiFNhFfrwPpd4yJYbgxg55hzW9vU62q8auaP7dkPchs
+ipfs pin rm QmcbiFNhFfrwPpd4yJYbgxg55hzW9vU62q8auaP7dkPchs
 echo removing 01ke3631.copc.laz - QmZYgeP8eL6dcLhgPr7QxERNSN1ZoMzWsdJ3jZKCsfMo1G
 ipfs pin rm QmZYgeP8eL6dcLhgPr7QxERNSN1ZoMzWsdJ3jZKCsfMo1G
 echo removing 01ke3632.copc.laz - QmV34H7r7J8svuEUomti5fipdn2jzFfi65YLcY1oUmsUGz
@@ -1440,3 +1440,9 @@ echo removing 01le2744.copc.laz - QmYofrnZTkdw6wksvTPYJZ8Ex2YCV2gTA8BaMeSWXKkiBz
 ipfs pin rm QmYofrnZTkdw6wksvTPYJZ8Ex2YCV2gTA8BaMeSWXKkiBz
 echo removing 01le2811.copc.laz - QmV8ENB6Mp5kVQTNbLJusmRnFewwEHjHgfa6WB6c8cSzX1
 ipfs pin rm QmV8ENB6Mp5kVQTNbLJusmRnFewwEHjHgfa6WB6c8cSzX1
+echo removing 01le2812.copc.laz - QmTEGouWUCMJsTjXNJ7agqkchVXuJrH7nHuBbDXGZNHm3Q
+ipfs pin rm QmTEGouWUCMJsTjXNJ7agqkchVXuJrH7nHuBbDXGZNHm3Q
+echo removing 01le2813.copc.laz - QmesR3FKPbZLGF7AWDS44Hfqm8cPVQEU3RVRfqNVeeaWeV
+ipfs pin rm QmesR3FKPbZLGF7AWDS44Hfqm8cPVQEU3RVRfqNVeeaWeV
+echo removing 01le2814.copc.laz - QmPH2qVA9hLKbDohgVYqATWgKyuUrwyiLv9NARFnafVp4m
+ipfs pin rm QmPH2qVA9hLKbDohgVYqATWgKyuUrwyiLv9NARFnafVp4m
