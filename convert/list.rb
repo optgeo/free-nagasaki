@@ -3,6 +3,7 @@ require 'tmpdir'
 
 json = JSON.parse(File.open('list.json').read)
 count = 0
+skip = true
 json['result'].each {|k, v|
   count += 1
   Dir.mktmpdir {|dir|
@@ -11,8 +12,9 @@ json['result'].each {|k, v|
       path.sub('data/', '') + '.zip'
     dst_path = "#{dir}/#{url.split('/')[-1]}"
     out_path = "dst/#{File.basename(dst_path.sub('_org', '').sub('.las.zip', '.copc.laz'))}"
-next unless out_path == "dst/01ke3542.copc.laz"
-    next if File.exist?(out_path)
+skip = false if out_path == "dst/01ke3543.copc.laz"
+next if skip
+    #next if File.exist?(out_path)
     pipeline = [
       "#{dst_path.sub('.zip', '')}",
       {

@@ -19,7 +19,7 @@ list = read('list.csv')
 print "initial list size: #{list.size}\n"
 
 Dir.glob("*.copc.laz").sort.each {|fn|
-  next if list[fn]
+#  next if list[fn]
   next if Time.now - File.mtime(fn) < 60
   r = `ipfs add #{fn}`.split(' ')
   list[r[2]] = r[1]
