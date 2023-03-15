@@ -1496,3 +1496,165 @@ echo [748] adding 01le3711.copc.laz - Qmf7gzeJDwScHoWxHwa6KAc5HwsWSK1F7rJz4K2ceg
 ipfs pin add --progress Qmf7gzeJDwScHoWxHwa6KAc5HwsWSK1F7rJz4K2cegCnxr
 echo [749] adding 01le3712.copc.laz - QmagVUWUUuJQ6cVn4vRU1uc7tKV2fq2uDEFNnyM4BaUBpo
 ipfs pin add --progress QmagVUWUUuJQ6cVn4vRU1uc7tKV2fq2uDEFNnyM4BaUBpo
+echo [750] adding 01le3713.copc.laz - Qmah5yo4hbEy6Bd66ryg2w92wf3R2iK6RmUidJbkTQNoFT
+ipfs pin add --progress Qmah5yo4hbEy6Bd66ryg2w92wf3R2iK6RmUidJbkTQNoFT
+echo [751] adding 01le3714.copc.laz - Qmam7W6XKhqUi96eHTSbDdufMxXS4nXFZ8vjsvGY1LtsFK
+ipfs pin add --progress Qmam7W6XKhqUi96eHTSbDdufMxXS4nXFZ8vjsvGY1LtsFK
+echo [752] adding 01le3721.copc.laz - Qmc82xZipATr2fDAdM4Qc2qi9fThLduxc1oydfN1mw3KF5
+ipfs pin add --progress Qmc82xZipATr2fDAdM4Qc2qi9fThLduxc1oydfN1mw3KF5
+echo [753] adding 01le3722.copc.laz - QmWXJ4izdrFuLbEu194STTVy9LqjXCbasyVNffQAzKdZt4
+ipfs pin add --progress QmWXJ4izdrFuLbEu194STTVy9LqjXCbasyVNffQAzKdZt4
+echo [754] adding 01le3723.copc.laz - QmcAjQNkC3hMRwL9B7brbekGDSuVFaGq9s8j3KST8kcb22
+ipfs pin add --progress QmcAjQNkC3hMRwL9B7brbekGDSuVFaGq9s8j3KST8kcb22
+echo [755] adding 01le3724.copc.laz - QmSLXYxsNe9LdX2nuwqm3MkbscGgB4Tbb713rbMu1Evhso
+ipfs pin add --progress QmSLXYxsNe9LdX2nuwqm3MkbscGgB4Tbb713rbMu1Evhso
+echo [756] adding 01le3731.copc.laz - QmRqV6kmSB2fpE3zCMbHtLJSBHxc4ohHWFkEKziJ96yuaR
+ipfs pin add --progress QmRqV6kmSB2fpE3zCMbHtLJSBHxc4ohHWFkEKziJ96yuaR
+echo [757] adding 01le3732.copc.laz - QmQTSGXHURvTmnKfT5KKP7xPKFtZfaExZXfUoADkS3vUwB
+ipfs pin add --progress QmQTSGXHURvTmnKfT5KKP7xPKFtZfaExZXfUoADkS3vUwB
+echo [758] adding 01le3733.copc.laz - QmQr9ZF1X4ReioHzQBNWJU57PkmeufzkirTi1JRm7RcRR4
+ipfs pin add --progress QmQr9ZF1X4ReioHzQBNWJU57PkmeufzkirTi1JRm7RcRR4
+echo [759] adding 01le3734.copc.laz - QmfJhaDBu8dvm1xK2DzrQzQSBKeYaC88FwuMFLmMomrbka
+ipfs pin add --progress QmfJhaDBu8dvm1xK2DzrQzQSBKeYaC88FwuMFLmMomrbka
+echo [760] adding 01le3741.copc.laz - QmXdSM3LCQuAz4v432mfvQqEB58ssWh416u4wr37x9gead
+ipfs pin add --progress QmXdSM3LCQuAz4v432mfvQqEB58ssWh416u4wr37x9gead
+echo [761] adding 01le3742.copc.laz - QmXRfgLakHhGh9STzfSzwp4ouqS1qh7iX54WgUz5Ua5pPo
+ipfs pin add --progress QmXRfgLakHhGh9STzfSzwp4ouqS1qh7iX54WgUz5Ua5pPo
+echo [762] adding 01le3743.copc.laz - QmQNrYJ6EMu7icHkB4KXWs1FJ8eW98ejf6xYYULstbuSYE
+ipfs pin add --progress QmQNrYJ6EMu7icHkB4KXWs1FJ8eW98ejf6xYYULstbuSYE
+echo [763] adding 01le3744.copc.laz - QmaHrArvgWqw3tWV8PHZCpoumt3PCxeaFqaSHVSQkR8sfE
+ipfs pin add --progress QmaHrArvgWqw3tWV8PHZCpoumt3PCxeaFqaSHVSQkR8sfE
+echo [764] adding 01le3811.copc.laz - QmajFn7gdyEQG3Lh1XVdMwu7cTqSr6DSgXqtysiZyjDANQ
+ipfs pin add --progress QmajFn7gdyEQG3Lh1XVdMwu7cTqSr6DSgXqtysiZyjDANQ
+echo [765] adding 01le3812.copc.laz - QmVnxaBfTXQgy8nzs3SF3T5cqtTWqPgvvvTx2zak9QD5GT
+ipfs pin add --progress QmVnxaBfTXQgy8nzs3SF3T5cqtTWqPgvvvTx2zak9QD5GT
+echo [766] adding 01le3813.copc.laz - QmSdQMPwhvbS8rkr1cj65hnY9nvFnU1Xppux6JFQh99YoF
+ipfs pin add --progress QmSdQMPwhvbS8rkr1cj65hnY9nvFnU1Xppux6JFQh99YoF
+echo [767] adding 01le3814.copc.laz - QmQduG1cc8SREK1EKCVYZrd9uwtKNBuLvLT87pvhRxVMM4
+ipfs pin add --progress QmQduG1cc8SREK1EKCVYZrd9uwtKNBuLvLT87pvhRxVMM4
+echo [768] adding 01le3821.copc.laz - QmfZknYQ4FPBiqXxyk345GwRAG5rK7VG7xQDwRUUtPPLNu
+ipfs pin add --progress QmfZknYQ4FPBiqXxyk345GwRAG5rK7VG7xQDwRUUtPPLNu
+echo [769] adding 01le3822.copc.laz - Qmc4vHiefGNv4zBTQJDTHB3jQgaQiCKjvnbWiJFWLZ6gZs
+ipfs pin add --progress Qmc4vHiefGNv4zBTQJDTHB3jQgaQiCKjvnbWiJFWLZ6gZs
+echo [770] adding 01le4621.copc.laz - QmQ1wHaq6ha5sCGccptf7fryubUatxde3j4XoRS6BUR1zZ
+ipfs pin add --progress QmQ1wHaq6ha5sCGccptf7fryubUatxde3j4XoRS6BUR1zZ
+echo [771] adding 01le4622.copc.laz - QmZo9itbgCUZmmf5FFT7JNeCMYPCPse6BRgXxSWh4hnfAd
+ipfs pin add --progress QmZo9itbgCUZmmf5FFT7JNeCMYPCPse6BRgXxSWh4hnfAd
+echo [772] adding 01le4623.copc.laz - QmfSKcSbxdf951FocMaCyQLHLDYa3xuUzTNMBMdwAByLyQ
+ipfs pin add --progress QmfSKcSbxdf951FocMaCyQLHLDYa3xuUzTNMBMdwAByLyQ
+echo [773] adding 01le4624.copc.laz - QmREmtD3VsBzmzXjQ7fEqwWrmFA1JUvJxWTkS8UNv8yhzg
+ipfs pin add --progress QmREmtD3VsBzmzXjQ7fEqwWrmFA1JUvJxWTkS8UNv8yhzg
+echo [774] adding 01le4632.copc.laz - QmainAPBxXKm4674tT2zUNyYrnc69Vq5csQGn5YKca5m9t
+ipfs pin add --progress QmainAPBxXKm4674tT2zUNyYrnc69Vq5csQGn5YKca5m9t
+echo [775] adding 01le4633.copc.laz - QmNSFe5XzoisAC7khSpMuy1MoWxwhG7UXrPsG6HzTMboX5
+ipfs pin add --progress QmNSFe5XzoisAC7khSpMuy1MoWxwhG7UXrPsG6HzTMboX5
+echo [776] adding 01le4634.copc.laz - QmcEn5yVKCMn63fJd5Noj4BWU5CD2No6isdasAEJbb1vQn
+ipfs pin add --progress QmcEn5yVKCMn63fJd5Noj4BWU5CD2No6isdasAEJbb1vQn
+echo [777] adding 01le4641.copc.laz - QmUk1ka5QnazEphSwvSX1hmSwy3pcnJoNkWv3nSS8pa9py
+ipfs pin add --progress QmUk1ka5QnazEphSwvSX1hmSwy3pcnJoNkWv3nSS8pa9py
+echo [778] adding 01le4642.copc.laz - QmfVFwChBv2AJnSuMc8rqko7GNjWh9iRBeDzzrcLxeQNM8
+ipfs pin add --progress QmfVFwChBv2AJnSuMc8rqko7GNjWh9iRBeDzzrcLxeQNM8
+echo [779] adding 01le4643.copc.laz - QmewKGZKzsbgsmz9V5mZdKMWk1LTiDb6iuuB94TrUJf6Fe
+ipfs pin add --progress QmewKGZKzsbgsmz9V5mZdKMWk1LTiDb6iuuB94TrUJf6Fe
+echo [780] adding 01le4644.copc.laz - QmeiYHxFKCQnJvetN8RgWZUuQDF7cxC8zjSqAGm5iaUtbb
+ipfs pin add --progress QmeiYHxFKCQnJvetN8RgWZUuQDF7cxC8zjSqAGm5iaUtbb
+echo [781] adding 01le4711.copc.laz - QmeHfi7tj9RYD9GM8711L1ezLos4LCMaZJT4umWpwbhhQm
+ipfs pin add --progress QmeHfi7tj9RYD9GM8711L1ezLos4LCMaZJT4umWpwbhhQm
+echo [782] adding 01le4712.copc.laz - QmNXkKxhabE4VH3cWx4S2yDjiaCoj5AcnmQkkHvNy5njKP
+ipfs pin add --progress QmNXkKxhabE4VH3cWx4S2yDjiaCoj5AcnmQkkHvNy5njKP
+echo [783] adding 01le4713.copc.laz - QmZ63RZFwz7QoWgoX49bsEYKg93Pzs4Psb2xvivMm2kKyh
+ipfs pin add --progress QmZ63RZFwz7QoWgoX49bsEYKg93Pzs4Psb2xvivMm2kKyh
+echo [784] adding 01le4714.copc.laz - QmboaL1omtS22Yq472oBgoDWddZ7aV1bSEBhyEkDgbmXKT
+ipfs pin add --progress QmboaL1omtS22Yq472oBgoDWddZ7aV1bSEBhyEkDgbmXKT
+echo [785] adding 01le4721.copc.laz - QmeRG9ghUxB4pcdVyVq89BGY75bh4JG2YRpHt2Uue5eX3m
+ipfs pin add --progress QmeRG9ghUxB4pcdVyVq89BGY75bh4JG2YRpHt2Uue5eX3m
+echo [786] adding 01le4722.copc.laz - QmWgBTS15VLaihJrJH8d5FFpFNLjEET2GMDwkzTWRBkcEP
+ipfs pin add --progress QmWgBTS15VLaihJrJH8d5FFpFNLjEET2GMDwkzTWRBkcEP
+echo [787] adding 01le4723.copc.laz - Qmem7do1bSyzVTUiUizQWJgLLZ46D15fAcGu7bWaLVXbYC
+ipfs pin add --progress Qmem7do1bSyzVTUiUizQWJgLLZ46D15fAcGu7bWaLVXbYC
+echo [788] adding 01le4724.copc.laz - Qmaasn8Ca6GStJ2ChqvbKgAsg87wDTHyEpBgKxdXvQMg42
+ipfs pin add --progress Qmaasn8Ca6GStJ2ChqvbKgAsg87wDTHyEpBgKxdXvQMg42
+echo [789] adding 01le4731.copc.laz - QmPWyG73HrwECvQzv1Nj45xZo3v7s4Cc1LWkoh7XJyeNRb
+ipfs pin add --progress QmPWyG73HrwECvQzv1Nj45xZo3v7s4Cc1LWkoh7XJyeNRb
+echo [790] adding 01le4732.copc.laz - QmYBGHzcV6GEqLtfR75G76vEHGf3EBe8VL4VuAvEQfLVkD
+ipfs pin add --progress QmYBGHzcV6GEqLtfR75G76vEHGf3EBe8VL4VuAvEQfLVkD
+echo [791] adding 01le4733.copc.laz - QmcEvVEottbsU2iPatcWinnXm8kB82wxhCBTaMARUeQ13M
+ipfs pin add --progress QmcEvVEottbsU2iPatcWinnXm8kB82wxhCBTaMARUeQ13M
+echo [792] adding 01le4734.copc.laz - QmWhNkgCAZrxo8TgUdKJGaQunnL4qrV4x7moKg6HMTwkSW
+ipfs pin add --progress QmWhNkgCAZrxo8TgUdKJGaQunnL4qrV4x7moKg6HMTwkSW
+echo [793] adding 01le4741.copc.laz - QmYewga4LSL2TA96Rekj7nhGj7uGYTLbqJrdKDFgWa4fJ4
+ipfs pin add --progress QmYewga4LSL2TA96Rekj7nhGj7uGYTLbqJrdKDFgWa4fJ4
+echo [794] adding 01le5521.copc.laz - QmNo3RNQ9bEffX56JFspzQAbPVuVEzmoGq6xRTiwZdSWBd
+ipfs pin add --progress QmNo3RNQ9bEffX56JFspzQAbPVuVEzmoGq6xRTiwZdSWBd
+echo [795] adding 01le5522.copc.laz - QmP9JPGoAyqxTuQV4Q3mCZCPryTdf8xh42Nd9N8k2uTU34
+ipfs pin add --progress QmP9JPGoAyqxTuQV4Q3mCZCPryTdf8xh42Nd9N8k2uTU34
+echo [796] adding 01le5523.copc.laz - QmW8Li4pbpjsdSZ258RiMq7oaitSHvTYMhsWXDJ45RyoH1
+ipfs pin add --progress QmW8Li4pbpjsdSZ258RiMq7oaitSHvTYMhsWXDJ45RyoH1
+echo [797] adding 01le5524.copc.laz - Qmde8e1kgvp3d83sjjAZvNEux82FVaKxjZkMmpi2ocqnF2
+ipfs pin add --progress Qmde8e1kgvp3d83sjjAZvNEux82FVaKxjZkMmpi2ocqnF2
+echo [798] adding 01le5541.copc.laz - QmUBY6Lb76JxdKu5zksy5RZVBrG5ih4vuZFf1rfEXqgZFV
+ipfs pin add --progress QmUBY6Lb76JxdKu5zksy5RZVBrG5ih4vuZFf1rfEXqgZFV
+echo [799] adding 01le5542.copc.laz - QmbNkPq4DCCBMbbK9SY6Fhz6kcv3wdWd7Zn1ZZSnHnFhhA
+ipfs pin add --progress QmbNkPq4DCCBMbbK9SY6Fhz6kcv3wdWd7Zn1ZZSnHnFhhA
+echo [800] adding 01le5543.copc.laz - Qmc2vvxKJ2HTaQua5ZdMHX7bRQNeDnX6wL4B76JKUWs4bN
+ipfs pin add --progress Qmc2vvxKJ2HTaQua5ZdMHX7bRQNeDnX6wL4B76JKUWs4bN
+echo [801] adding 01le5611.copc.laz - QmVo16JhFhfdfgAibLoiNxsHTXXw6yTnnKpFM8Ms5fH6qt
+ipfs pin add --progress QmVo16JhFhfdfgAibLoiNxsHTXXw6yTnnKpFM8Ms5fH6qt
+echo [802] adding 01le5612.copc.laz - QmYRCT33UjVJM8auEn3bSd8aH43SnPFAzC4XfPdDvE9ax6
+ipfs pin add --progress QmYRCT33UjVJM8auEn3bSd8aH43SnPFAzC4XfPdDvE9ax6
+echo [803] adding 01le5613.copc.laz - QmXmoPW8RKE5K4uzGgv53yKvxtUUVbZGws5hZFa76H5bgE
+ipfs pin add --progress QmXmoPW8RKE5K4uzGgv53yKvxtUUVbZGws5hZFa76H5bgE
+echo [804] adding 01le5614.copc.laz - QmTQhkQb4VyT4THf36spwhThHbVSwFceiKPNznSgAfFA9o
+ipfs pin add --progress QmTQhkQb4VyT4THf36spwhThHbVSwFceiKPNznSgAfFA9o
+echo [805] adding 01le5621.copc.laz - QmeZxAN2DbMJRk3jN51jn3c4EPUUPYRj3YEDEo6PRycyV1
+ipfs pin add --progress QmeZxAN2DbMJRk3jN51jn3c4EPUUPYRj3YEDEo6PRycyV1
+echo [806] adding 01le5622.copc.laz - QmTKeRqA1p6rnTyaGA4wofrMAZHSbyAGW7oE3ULKjFJf6M
+ipfs pin add --progress QmTKeRqA1p6rnTyaGA4wofrMAZHSbyAGW7oE3ULKjFJf6M
+echo [807] adding 01le5623.copc.laz - QmaJLZeqn7THtYCQQ2CwC8VoXvHxz9SXr9StipX12iUrLF
+ipfs pin add --progress QmaJLZeqn7THtYCQQ2CwC8VoXvHxz9SXr9StipX12iUrLF
+echo [808] adding 01le5624.copc.laz - QmXzfYxe2qKNT1bCiPC6EajiJCeCZwtKFGKN71EuEiVPf5
+ipfs pin add --progress QmXzfYxe2qKNT1bCiPC6EajiJCeCZwtKFGKN71EuEiVPf5
+echo [809] adding 01le5631.copc.laz - QmTk2kaJENrLURe9td5GLeUYZPKfnwYFaU9rmAdxya2KAX
+ipfs pin add --progress QmTk2kaJENrLURe9td5GLeUYZPKfnwYFaU9rmAdxya2KAX
+echo [810] adding 01le5632.copc.laz - QmWUZZF6c11acp44stBQopTjXemz9zvBkGQpihv51obp5C
+ipfs pin add --progress QmWUZZF6c11acp44stBQopTjXemz9zvBkGQpihv51obp5C
+echo [811] adding 01le5634.copc.laz - QmZSvzxjv4gRZHKXfZjZtyeyv5gXPbRXGhNbHNpwufu1Cg
+ipfs pin add --progress QmZSvzxjv4gRZHKXfZjZtyeyv5gXPbRXGhNbHNpwufu1Cg
+echo [812] adding 01le5641.copc.laz - Qmaxa5RSQ48ENWCAyJWH6T4VhqYbZvGqSgJufgCHibsr6J
+ipfs pin add --progress Qmaxa5RSQ48ENWCAyJWH6T4VhqYbZvGqSgJufgCHibsr6J
+echo [813] adding 01le5643.copc.laz - QmaMTVqo9RzFxfiGtG38qcJtDjNTK7hDAgYVg6csWA1bCb
+ipfs pin add --progress QmaMTVqo9RzFxfiGtG38qcJtDjNTK7hDAgYVg6csWA1bCb
+echo [814] adding 01le5644.copc.laz - QmU2H56CTHXKxgFjuTjXWAXZJ3Z5zxSzjPgSbwXgJs6RNq
+ipfs pin add --progress QmU2H56CTHXKxgFjuTjXWAXZJ3Z5zxSzjPgSbwXgJs6RNq
+echo [815] adding 01le5711.copc.laz - QmahY7YRXrt8d6i1ZjBPubBZNvyLK9cxB4kvL1ZGiNK1HA
+ipfs pin add --progress QmahY7YRXrt8d6i1ZjBPubBZNvyLK9cxB4kvL1ZGiNK1HA
+echo [816] adding 01le6521.copc.laz - QmRZxXEVYQqnFprZcVGrWfRULWAdwdLKhg1tBJwHTmkUMK
+ipfs pin add --progress QmRZxXEVYQqnFprZcVGrWfRULWAdwdLKhg1tBJwHTmkUMK
+echo [817] adding 01le6612.copc.laz - QmYzGNd1yMxQKg2ETP6L1QrvzVcy5fbMZxB6C29bsHukwL
+ipfs pin add --progress QmYzGNd1yMxQKg2ETP6L1QrvzVcy5fbMZxB6C29bsHukwL
+echo [818] adding 01le6614.copc.laz - QmYsoenCktmxrT8gA9KmojdAs9ZQHeM2gRV7KVUXmDoNtM
+ipfs pin add --progress QmYsoenCktmxrT8gA9KmojdAs9ZQHeM2gRV7KVUXmDoNtM
+echo [819] adding 01le6621.copc.laz - QmRV2st5RvNJL6uW6ez8xuCYZLu5zQn6f9UAFYqgdQ3vzW
+ipfs pin add --progress QmRV2st5RvNJL6uW6ez8xuCYZLu5zQn6f9UAFYqgdQ3vzW
+echo [820] adding 01le6622.copc.laz - QmW9tW41vKumCd7pc6uzFb7sjfGvgiZXQX2G7rwr4xTzAS
+ipfs pin add --progress QmW9tW41vKumCd7pc6uzFb7sjfGvgiZXQX2G7rwr4xTzAS
+echo [821] adding 01le6623.copc.laz - QmanWTSqh28MFqpdJuYWZibcbLDt6Z5St3iTwVpb8f6Qym
+ipfs pin add --progress QmanWTSqh28MFqpdJuYWZibcbLDt6Z5St3iTwVpb8f6Qym
+echo [822] adding 01le6624.copc.laz - Qmb6o69JxDQJRrH1qLygwtKwcDfjp6Me7vB22KNBeS3ZWm
+ipfs pin add --progress Qmb6o69JxDQJRrH1qLygwtKwcDfjp6Me7vB22KNBeS3ZWm
+echo [823] adding 01le6632.copc.laz - QmfD9VB3E6YNVkfJaGHTmGpsSLstD3xTHhV8JNEKox3HhP
+ipfs pin add --progress QmfD9VB3E6YNVkfJaGHTmGpsSLstD3xTHhV8JNEKox3HhP
+echo [824] adding 01le6641.copc.laz - QmTCDjamexBcEPAWbqWjTQgnoD8XJb5Xyb8CQH1KVntCv8
+ipfs pin add --progress QmTCDjamexBcEPAWbqWjTQgnoD8XJb5Xyb8CQH1KVntCv8
+echo [825] adding 01lf0011.copc.laz - QmSiSJDZqA9iAuW7fiGkp8aJgwGqnmxRg9FSz4QcNmPLPi
+ipfs pin add --progress QmSiSJDZqA9iAuW7fiGkp8aJgwGqnmxRg9FSz4QcNmPLPi
+echo [826] adding 01lf0012.copc.laz - QmVEQkCZ1A3HLjrG8QAEniWm2wt9VETSKJMuQ39tkJLM2n
+ipfs pin add --progress QmVEQkCZ1A3HLjrG8QAEniWm2wt9VETSKJMuQ39tkJLM2n
+echo [827] adding 01lf0013.copc.laz - QmbbYjtricibFCRrjqPTeARYGNA4UatTpXSkCs6QAyZokC
+ipfs pin add --progress QmbbYjtricibFCRrjqPTeARYGNA4UatTpXSkCs6QAyZokC
+echo [828] adding 01lf0014.copc.laz - QmfMMg1WK8KrtzqN5drs4xJZ9CvvshzyocCEUiisBiE5ad
+ipfs pin add --progress QmfMMg1WK8KrtzqN5drs4xJZ9CvvshzyocCEUiisBiE5ad
+echo [829] adding 01lf0031.copc.laz - QmdaABSoidgjSoCXVjpHQ1E3uY7gmQHuXeezBkhuAeu1rQ
+ipfs pin add --progress QmdaABSoidgjSoCXVjpHQ1E3uY7gmQHuXeezBkhuAeu1rQ
+echo [830] adding 01lf0033.copc.laz - QmNPquEwCUmLqetaSKLmQ3qmxmHXRXja6stkuQSxgqVgoD
+ipfs pin add --progress QmNPquEwCUmLqetaSKLmQ3qmxmHXRXja6stkuQSxgqVgoD
