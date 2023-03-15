@@ -332,8 +332,8 @@ echo removing 01ke3534.copc.laz - QmTuENgrPEUyd2Xo9rzzWDENCw3Er7gVfSYvuSsgMRgCYK
 ipfs pin rm QmTuENgrPEUyd2Xo9rzzWDENCw3Er7gVfSYvuSsgMRgCYK
 echo removing 01ke3541.copc.laz - Qmf2SWht75bEUq1tWEaPnrKd1gM6zanuXbwnGm7aX8FCWq
 ipfs pin rm Qmf2SWht75bEUq1tWEaPnrKd1gM6zanuXbwnGm7aX8FCWq
-echo removing 01ke3542.copc.laz - QmdLFL7WKbZ5TVUcWHrmsnbHUAKoi5McPf4C6R8yfCKBHf
-ipfs pin rm QmdLFL7WKbZ5TVUcWHrmsnbHUAKoi5McPf4C6R8yfCKBHf
+echo removing 01ke3542.copc.laz - QmP8AMnCn4assVuVfUywzYwQHfdGEUrzZJSB5hxkVR4PQH
+ipfs pin rm QmP8AMnCn4assVuVfUywzYwQHfdGEUrzZJSB5hxkVR4PQH
 echo removing 01ke3543.copc.laz - QmYwBizkf1Zkb8qMgtbyHr13stJtCzbzpo7yMSMwuiRKLe
 ipfs pin rm QmYwBizkf1Zkb8qMgtbyHr13stJtCzbzpo7yMSMwuiRKLe
 echo removing 01ke3544.copc.laz - QmWF36p5hpwgUTwqt6vBwFwxZuSdZPvf2rqmYRndsuy55v
@@ -1348,3 +1348,45 @@ echo removing 01le1824.copc.laz - QmVyDnrFM6txL3wyEwcM2vd8FHCrzoqY93D4A3UqDmRx1z
 ipfs pin rm QmVyDnrFM6txL3wyEwcM2vd8FHCrzoqY93D4A3UqDmRx1z
 echo removing 01le1831.copc.laz - QmeiMFsUNgMvSNFCGF8EaacwH3ou6rtN5hnsZCQFGLhLqL
 ipfs pin rm QmeiMFsUNgMvSNFCGF8EaacwH3ou6rtN5hnsZCQFGLhLqL
+echo removing 01le1832.copc.laz - QmRQPWYoWZFKB8uRxWTeM9rfnTLfi1nhvtdPCLGM1L7cVF
+ipfs pin rm QmRQPWYoWZFKB8uRxWTeM9rfnTLfi1nhvtdPCLGM1L7cVF
+echo removing 01le1833.copc.laz - Qmd9jquqXyVwye61eRUrc6dhqZp3xnxyWLd8MqiHupczUx
+ipfs pin rm Qmd9jquqXyVwye61eRUrc6dhqZp3xnxyWLd8MqiHupczUx
+echo removing 01le1834.copc.laz - QmY7mbRmRx7wb2QMaJSF2EasFcxTkKUpHwRm5rxUBsC9nh
+ipfs pin rm QmY7mbRmRx7wb2QMaJSF2EasFcxTkKUpHwRm5rxUBsC9nh
+echo removing 01le1841.copc.laz - QmfLXzW5877BvUPPpZaWmSeYUt8PH5QBKnfyrAyb3zcKRH
+ipfs pin rm QmfLXzW5877BvUPPpZaWmSeYUt8PH5QBKnfyrAyb3zcKRH
+echo removing 01le1842.copc.laz - Qmf1ULVkG2iX9Aerj7TRNTsGEo7MaHLdXAgsaXncXV5pbH
+ipfs pin rm Qmf1ULVkG2iX9Aerj7TRNTsGEo7MaHLdXAgsaXncXV5pbH
+echo removing 01le1843.copc.laz - QmexocP1AWacSwFED5Q2YiuujujTkqeez7XBTXajWRQBur
+ipfs pin rm QmexocP1AWacSwFED5Q2YiuujujTkqeez7XBTXajWRQBur
+echo removing 01le1844.copc.laz - QmUPPqvBFSKYoijGYf4QJ8P2CU97GvKRhxBxitBnoNAo6v
+ipfs pin rm QmUPPqvBFSKYoijGYf4QJ8P2CU97GvKRhxBxitBnoNAo6v
+echo removing 01le1911.copc.laz - QmZFqWFdjzS5W6wZMLMrwt85HWbTeYHhSRShN75YZ1NUJT
+ipfs pin rm QmZFqWFdjzS5W6wZMLMrwt85HWbTeYHhSRShN75YZ1NUJT
+echo removing 01le1912.copc.laz - QmUEqm5skoSDk67EeHmuiSGbgW2T9vdRWnPexTYJW921eG
+ipfs pin rm QmUEqm5skoSDk67EeHmuiSGbgW2T9vdRWnPexTYJW921eG
+echo removing 01le1913.copc.laz - QmPvwSm2CtcBPcKo3W3M2ws5AZD3doyUaceMivQp6o96Vv
+ipfs pin rm QmPvwSm2CtcBPcKo3W3M2ws5AZD3doyUaceMivQp6o96Vv
+echo removing 01le1914.copc.laz - Qmf6D4vSWzjuvraz8xBo6D6rhySfD9t3eS1B8xUsAccjFS
+ipfs pin rm Qmf6D4vSWzjuvraz8xBo6D6rhySfD9t3eS1B8xUsAccjFS
+echo removing 01le1921.copc.laz - QmckEKGUr5mwGzAUEbAJD1VirsiE3mud8xa61aGMcFcVJV
+ipfs pin rm QmckEKGUr5mwGzAUEbAJD1VirsiE3mud8xa61aGMcFcVJV
+echo removing 01le1922.copc.laz - QmUeU7WpJMw49Hz5mHiMtXBZgTvqUkQy7nGAyMTz3whhuY
+ipfs pin rm QmUeU7WpJMw49Hz5mHiMtXBZgTvqUkQy7nGAyMTz3whhuY
+echo removing 01le1923.copc.laz - QmePc75FmZ8vqFHjJ1DYQ7SVTzc3htMr1GKH2FYtJVr1si
+ipfs pin rm QmePc75FmZ8vqFHjJ1DYQ7SVTzc3htMr1GKH2FYtJVr1si
+echo removing 01le1931.copc.laz - QmURmVjaGqiLagzBBtzYpp7pngj4xdTUwfMNDaeu93VRiz
+ipfs pin rm QmURmVjaGqiLagzBBtzYpp7pngj4xdTUwfMNDaeu93VRiz
+echo removing 01le1932.copc.laz - QmQT3sHBBtYNpEftmSNccLUM6ju5xpkSXUkZJ1kbt5UWnZ
+ipfs pin rm QmQT3sHBBtYNpEftmSNccLUM6ju5xpkSXUkZJ1kbt5UWnZ
+echo removing 01le1933.copc.laz - QmdtkZsZurJF7Leca1PhdAgVynVMpUrt8k9TvfPro9j6Bm
+ipfs pin rm QmdtkZsZurJF7Leca1PhdAgVynVMpUrt8k9TvfPro9j6Bm
+echo removing 01le1934.copc.laz - QmXnDZH2YAhpD91TQiGCCstYNgoWsW4bzHh3WsTUwN3HiS
+ipfs pin rm QmXnDZH2YAhpD91TQiGCCstYNgoWsW4bzHh3WsTUwN3HiS
+echo removing 01le1941.copc.laz - QmebnMECzE2T9rNu1ZnqWYum1jLjvdvzrMtVpWfxK9tczM
+ipfs pin rm QmebnMECzE2T9rNu1ZnqWYum1jLjvdvzrMtVpWfxK9tczM
+echo removing 01le2522.copc.laz - QmYX6UK3rGuYGHaSoSPLBrTKRHq9BJKgeXievLgHqvmf72
+ipfs pin rm QmYX6UK3rGuYGHaSoSPLBrTKRHq9BJKgeXievLgHqvmf72
+echo removing 01le2524.copc.laz - QmVmGDh4orfBMa3DkQjgyJ6KXxfVHLseeEwb1io5yqRceL
+ipfs pin rm QmVmGDh4orfBMa3DkQjgyJ6KXxfVHLseeEwb1io5yqRceL
