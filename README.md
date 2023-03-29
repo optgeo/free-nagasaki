@@ -2,7 +2,7 @@
 Open Nagasaki LiDAR COPC
 
 - [Demo](list.md)
-- 長崎あたりのジオイド高は12m程度だそうです。
+- 長崎あたりのジオイド高は32m程度だそうです。
 
 # How to sustain this dataset by pinning them on your IPFS node
 ```
